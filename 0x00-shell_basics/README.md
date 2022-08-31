@@ -10,3 +10,6 @@ Bye Betty, delete file command
 Bye Directory, delete directory command
 Back to future, returning to previous directory
 Lists, listing multiple options for multiple files in different paths
+Type, file is the command
+Symbolic links using absolute pathnames
+Copy html, with the best command yet!
